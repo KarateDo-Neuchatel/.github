@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KarateDo-Neuchatel.png" width="110" alt="Neuchâtel Karaté Do">
+  <img src="https://raw.githubusercontent.com/KarateDo-Neuchatel/.github/main/profile/karatedo-banner.jpg" width="100%" alt="Neuchâtel Karaté Do">
 </p>
 
 <h1 align="center">Neuchâtel Karaté Do</h1>
